@@ -64,13 +64,13 @@ function App(props) {
             align="center"
             className={classes.title}
           >
-            EKS DEMO Blog Version 1
+            EKS DEMO Blog Version 2
           </Typography>
           {new Date().toLocaleTimeString()}
         </Toolbar>
       </AppBar>
       <br/>
-
+      
       <UpperPage key={1} />
       <br/>
       
